@@ -1,15 +1,14 @@
 {
   "mappings": [
-    "/content/we-healthcare/language-masters/en:/",
-    "/content/we-healthcare/language-masters/en/:/en/",
-    "/content/we-healthcare/configuration:/.helix/config.json",
-    "/content/we-healthcare/metadata:/metadata.json",
-    "/content/we-healthcare/redirects:/redirects.json",
-    "/content/we-healthcare/graphql:/graphql.json",
-    "/content/we-healthcare/placeholders:/placeholders.json"
+    "/content/pbakliwal/ikea-journey/language-masters/en:/",
+    "/content/pbakliwal/ikea-journey/language-masters/en/:/en/",
+    "/content/pbakliwal/ikea-journey/configuration:/.helix/config.json",
+    "/content/pbakliwal/ikea-journey/metadata:/metadata.json",
+    "/content/pbakliwal/ikea-journey/redirects:/redirects.json",
+    "/content/pbakliwal/ikea-journey/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/we-healthcare/",
-    "/content/dam/we-healthcare/"
+    "/content/pbakliwal/ikea-journey/",
+    "/content/dam/pbakliwal/ikea-journey/"
   ]
 }
